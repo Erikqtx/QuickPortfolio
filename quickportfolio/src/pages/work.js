@@ -1,11 +1,7 @@
 import React from "react";
 
 function Work() {
-  return (
-    <div className="work">
-      <h1>Work</h1>
-    </div>
-  );
+  return <div className="work"></div>;
 }
 
 export default Work;

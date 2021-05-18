@@ -8,15 +8,17 @@ import About from "./pages/about";
 
 function App() {
   return (
-    <Router>
-      <Navbar />
-      <Switch>
-        <Route path="/" exact component={Home} />
-        <Route path="/about" exact component={About} />
-        <Route path="/work" exact component={Work} />
-        <Route path="/questions" exact component={Questions} />
-      </Switch>
-    </Router>
+    <div className="app">
+      <Router>
+        <Navbar />
+        <Switch>
+          <Route path="/" exact component={Home} />
+          <Route path="/about" exact component={About} />
+          <Route path="/work" exact component={Work} />
+          <Route path="/questions" exact component={Questions} />
+        </Switch>
+      </Router>
+    </div>
   );
 }
 

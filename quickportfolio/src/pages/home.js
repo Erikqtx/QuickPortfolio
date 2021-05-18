@@ -6,7 +6,7 @@ import "./home.css";
 function Home() {
   return (
     <div className="home">
-      <div className="max-w-md mx-auto bg-grey rounded-xl shadow-2xl overflow-hidden md:max-w-2xl p-2">
+      <div className="bg-white max-w-md mx-auto rounded-xl shadow-2xl overflow-hidden md:max-w-screen-lg p-2">
         <img
           src={Erik}
           className="w-64 h-64 rounded-full mx-auto shadow-xl"
@@ -32,7 +32,8 @@ function Home() {
                 1000,
               ]}
             />
-          </p>
+          </p>{" "}
+          <p></p>
           <p className="info">
             Welcome to my quickly build Portfolio for the district town hall in
             Ansbach.
