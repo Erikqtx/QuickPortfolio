@@ -1,3 +1,5 @@
+const { FaRegIdBadge } = require("react-icons/fa");
+
 // tailwind.config.js
 module.exports = {
   purge: ["./src/**/*.{js,jsx,ts,tsx}", "./public/index.html"],
@@ -9,4 +11,9 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  theme: {
+    boxShadow: {
+      "2xl": "25px 25px 50px 25px rgba(0,0,0,0.25)",
+    },
+  },
 };

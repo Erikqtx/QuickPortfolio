@@ -1,11 +1,7 @@
 import React from "react";
 
 function Questions() {
-  return (
-    <div className="questions">
-      <h1>Questions</h1>
-    </div>
-  );
+  return <div className="questions"></div>;
 }
 
 export default Questions;

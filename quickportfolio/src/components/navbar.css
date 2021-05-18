@@ -5,6 +5,7 @@
   justify-content: start;
   align-items: center;
   box-shadow: 2px 2px 2px black;
+  content: "Menu";
 }
 
 .menu-bars {
@@ -80,7 +81,7 @@ span {
   font-family: "Dancing Script";
   font-size: 40px;
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1600px) {
   .ErikName {
     font-size: 20px;
     padding: 0px;

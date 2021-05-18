@@ -7,13 +7,5 @@
   font-family: "KoHo", sans-serif;
 }
 
-.home,
-.about,
-.work,
-.questions {
-  display: flex;
-  height: 90vh;
-  align-items: center;
-  justify-content: center;
-  font-size: 3rem;
+.App {
 }
