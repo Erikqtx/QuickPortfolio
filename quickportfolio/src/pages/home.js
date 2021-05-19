@@ -59,7 +59,7 @@ function Home() {
                 </p>
               </div>
               <a
-                href="#"
+                href="/work"
                 class="mt-6 inline-flex items-center px-6 py-3 text-white font-semibold bg-blue-700 rounded-md shadow-sm"
               >
                 Coming soon...
@@ -99,7 +99,7 @@ function Home() {
                 </p>
               </div>
               <a
-                href="#"
+                href="work"
                 class="mt-6 inline-flex items-center px-6 py-3 text-white font-semibold bg-blue-700 rounded-md shadow-sm"
               >
                 View project

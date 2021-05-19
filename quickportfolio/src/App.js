@@ -18,7 +18,6 @@ function App() {
           <Route path="/work" exact component={Work} />
           <Route path="/questions" exact component={Questions} />
         </Switch>
-        <Footer />
       </Router>
     </div>
   );

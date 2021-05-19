@@ -6,6 +6,7 @@ import Diamond from "./diamond.PNG";
 import Zoom from "./zoom.PNG";
 import Stefan from "./stefanordner.PNG";
 import Smartphone from "./smartphone.PNG";
+import Portfolio from "./portfolio.PNG";
 function Work() {
   return (
     <div className="work">
@@ -36,7 +37,7 @@ function Work() {
                   understand that i won't be able to share my code to the
                   public, since Cine.Mate could provide a big deal at this
                   point. If asked, i can show the code on my private git with
-                  shorted functionality and or the UI/UX Design.
+                  shortened functionality and or the UI/UX Design.
                 </span>
               </div>
             </div>
@@ -113,7 +114,7 @@ function Work() {
               <div class="flex items-center justify-center lg:col-span-1 col-span-full">
                 <a href="">
                   <img
-                    src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1009&q=80"
+                    src="https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
                     alt=""
                     class="mx-auto rounded-lg shadow-lg"
                   />
@@ -124,11 +125,12 @@ function Work() {
                   Projekt 4
                 </span>
                 <span class="text-xl font-bold md:text-2xl">
-                  Python - Data Science/CSV Analytics
+                  Python - Data Science/CSV Analytics{" "}
+                  {" (Need to check my MacBook for the files..)"}
                 </span>
                 <span class="mt-4 dark:text-coolGray-300">
-                  Data Science project with results using numpy, pandas,
-                  seaborne and many more Python Frameworks.
+                  Data Science project based on a real data set using numpy,
+                  pandas, seaborne and many more Python Frameworks.
                 </span>
               </div>
             </div>
@@ -219,6 +221,35 @@ function Work() {
                 </span>
                 <span class="mt-4 dark:text-coolGray-300">
                   Simple React One-Pager for a friend of mine.
+                </span>
+              </div>
+            </div>
+            <div class="grid justify-center grid-cols-4 p-8 mx-auto space-y-8 lg:space-y-0">
+              <div class="flex items-center justify-center lg:col-span-1 col-span-full">
+                <a
+                  href="https://github.com/Erikqtx/QuickPortfolio"
+                  target="_blank"
+                >
+                  <img
+                    src={Portfolio}
+                    alt=""
+                    class="mx-auto rounded-lg shadow-lg"
+                  />
+                </a>
+              </div>
+              <div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
+                <span class="text-xs tracking-wider uppercase dark:text-violet-400">
+                  Projekt 9
+                </span>
+                <span class="text-xl font-bold md:text-2xl">
+                  Quick Portfolio
+                  {" (worktime: 4-6 hours)"}
+                </span>
+                <span class="mt-4 dark:text-coolGray-300">
+                  Since this portfolio was built to showcase myself for you out
+                  there, heres the page itself. This page took no longer then
+                  4-6 hours and was done quick & dirty, since i had no time next
+                  to work.
                 </span>
               </div>
             </div>
