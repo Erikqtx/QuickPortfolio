@@ -35,10 +35,10 @@ function Work() {
                 <span class="mt-4 dark:text-coolGray-300">
                   Fully working developed mobile app using React Native. Please
                   understand that i won't be able to share my code to the
-                  public, since Cine.Mate could provide a big deal at this
-                  point. If you are interested in, I can provide You with the
-                  code on a private github with shortened functionality and the
-                  UI/UX Design.
+                  public, since Cine.Mate could come up as a big project in the
+                  near future. If you are interested in, I can provide You with
+                  the code on a private github with shortened functionality and
+                  the UI/UX Design.
                 </span>
               </div>
             </div>
@@ -63,7 +63,7 @@ function Work() {
                   Desktop WhatsApp Clone {"(Front- and Backend)"}
                 </span>
                 <span class="mt-4 dark:text-coolGray-300">
-                  Fully working and deployed desktop WhatAapp clone as a
+                  Fully working and deployed desktop WhatsApp clone as a
                   React-Application.
                 </span>
               </div>
@@ -84,7 +84,7 @@ function Work() {
                   Amazon Clone {"(Front- & Backend)"}
                 </span>
                 <span class="mt-4 dark:bg-coolGray-800 dark:text-coolGray-300">
-                  Full-Stack developed fully functional Amazon Clone - ready to
+                  Full-Stack developed, fully functional Amazon Clone - ready to
                   deploy via Firebase.
                 </span>
               </div>
@@ -193,7 +193,7 @@ function Work() {
                   Projekt 7
                 </span>
                 <span class="text-xl font-bold md:text-2xl">
-                  Product Showcase in Unity Engine{" (Training React)"}
+                  Product Showcase in Unity Engine
                 </span>
                 <span class="mt-4 dark:text-coolGray-300">
                   Showcasing a Smartphone and learning how to render things

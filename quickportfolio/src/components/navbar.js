@@ -17,7 +17,7 @@ function Navbar() {
           <FaIcons.FaBars onClick={showSidebar} />
         </Link>
         <h1 className="ErikName">
-          <a href="erikglaser.de">Erik Glaser</a>
+          <a href="https://erikglaser.de">Erik Glaser</a>
         </h1>
       </div>
       <nav className={sidebar ? "nav-menu active" : "nav-menu"}>
