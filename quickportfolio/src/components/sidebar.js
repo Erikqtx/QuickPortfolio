@@ -2,6 +2,7 @@ import React from "react";
 import * as FaIcons from "react-icons/fa";
 import * as MdIcons from "react-icons/md";
 import * as BiIcons from "react-icons/bi";
+import * as BsIcons from "react-icons/bs";
 
 export const Sidebar = [
   {
@@ -26,6 +27,18 @@ export const Sidebar = [
     title: "Questions",
     path: "/questions",
     icon: <FaIcons.FaQuestion />,
+    cName: "nav-text",
+  },
+  {
+    title: "Datenschutz",
+    path: "/datenschutz",
+    icon: <FaIcons.FaDatabase />,
+    cName: "nav-text",
+  },
+  {
+    title: "Impressum",
+    path: "/impressum",
+    icon: <BsIcons.BsBlockquoteLeft />,
     cName: "nav-text",
   },
 ];

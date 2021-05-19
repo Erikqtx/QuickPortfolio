@@ -6,7 +6,8 @@ import Home from "./pages/home";
 import Work from "./pages/work";
 import Questions from "./pages/questions";
 import About from "./pages/about";
-
+import Datenschutz from "./pages/datenschutz";
+import Impressum from "./pages/impressum";
 function App() {
   return (
     <div className="app">
@@ -17,6 +18,8 @@ function App() {
           <Route path="/about" exact component={About} />
           <Route path="/work" exact component={Work} />
           <Route path="/questions" exact component={Questions} />
+          <Route path="/datenschutz" exact component={Datenschutz} />
+          <Route path="/impressum" exact component={Impressum} />
         </Switch>
       </Router>
     </div>

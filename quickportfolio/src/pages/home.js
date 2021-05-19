@@ -3,10 +3,25 @@ import Erik from "../Erik.jpg";
 import Typical from "react-typical";
 import "./home.css";
 import ParticlesBg from "particles-bg";
-
+import CookieConsent from "react-cookie-consent";
 function Home() {
   return (
     <div className="home">
+      <CookieConsent
+        location="top"
+        buttonText="Ich stimme zu"
+        cookieName="Glakon"
+        style={{ background: "gray" }}
+        buttonStyle={{ color: "#4e503b", fontSize: "20px" }}
+        expires={150}
+      >
+        Reden wir über Cookies! Cookies sowie andere Daten und Technologien
+        werden von mir genutzt, um Deine Erfahrung auf erikglaser.de zu
+        analysieren, verbessern und personalisieren. Klicke auf „Ich stimme zu“,
+        um zuzustimmen und die Services von erikglaser.de weiterhin zu nutzen.
+        Mehr erfährst du in unserer{" "}
+        <a href="./datenschutz">Datenschutzerklärung</a>.
+      </CookieConsent>
       <ParticlesBg type="circle" bg={true} />
       <div className="bg-white max-w-md mx-auto rounded-xl shadow-2xl overflow-hidden md:max-w-screen-lg p-2">
         <img
