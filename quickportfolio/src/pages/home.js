@@ -44,6 +44,7 @@ function Home() {
       </div>
 
       <div class="max-w-screen-xl mx-auto px-4">
+        <ParticlesBg type="circle" bg={true} />
         <div class="-mx-4 flex flex-wrap">
           <div class="w-full flex flex-col p-4 sm:w-1/2 lg:w-1/3">
             <div class="flex flex-col flex-1 px-10 py-12 bg-white rounded-lg shadow-lg">
@@ -61,7 +62,7 @@ function Home() {
                 href="#"
                 class="mt-6 inline-flex items-center px-6 py-3 text-white font-semibold bg-blue-700 rounded-md shadow-sm"
               >
-                View Project
+                View project
               </a>
             </div>
           </div>

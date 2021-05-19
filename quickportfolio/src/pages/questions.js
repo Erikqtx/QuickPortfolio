@@ -1,7 +1,7 @@
 import React from "react";
 
 function Questions() {
-  return <div className="questions"></div>;
+  return <div className="questions">Questions?</div>;
 }
 
 export default Questions;
