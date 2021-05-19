@@ -110,7 +110,7 @@ function About() {
                     {"Visualisierung und Interaktion in Digitalen Medien"}
                     <br></br>
                     {
-                      " Specialized in Web & Mobil Development/3D Interactive/Serious Gamedesign"
+                      " Specialized in Web & Mobile Development/3D Interactive/Serious Gamedesign"
                     }
                     <br></br>
                     {"Graduation: 2022 Summer Semester"}
@@ -134,7 +134,7 @@ function About() {
                 Personal Informations
               </h3>
               <p class="mt-3 text-lg dark:text-coolGray-400 text-xl">
-                Following you can find Hobbies and personal information about my
+                Below you can find Hobbies and personal information about my
                 person.
               </p>
               <div class="mt-12 space-y-12">
@@ -162,12 +162,12 @@ function About() {
                       Hobbies
                     </h4>
                     <p class="mt-2 dark:text-coolGray-400 text-xl">
-                      Ovbiously Programming,
+                      Obviously Programming,
                       <br></br>
                       Skating,
                       <br></br>
                       Music{" (singer of a band)"},<br></br>
-                      Beachvolleyball
+                      Beachvolleyball,
                       <br></br>
                       Barkeeping
                     </p>

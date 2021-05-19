@@ -36,8 +36,9 @@ function Work() {
                   Fully working developed mobile app using React Native. Please
                   understand that i won't be able to share my code to the
                   public, since Cine.Mate could provide a big deal at this
-                  point. If asked, i can show the code on my private git with
-                  shortened functionality and or the UI/UX Design.
+                  point. If you are interested in, I can provide You with the
+                  code on a private github with shortened functionality and the
+                  UI/UX Design.
                 </span>
               </div>
             </div>
@@ -59,10 +60,10 @@ function Work() {
                   Projekt 1
                 </span>
                 <span class="text-xl font-bold md:text-2xl">
-                  Desktop Whatsapp Clone {"(Front- and Backend)"}
+                  Desktop WhatsApp Clone {"(Front- and Backend)"}
                 </span>
                 <span class="mt-4 dark:text-coolGray-300">
-                  Fully working and deployed desktop whatsapp clone as a
+                  Fully working and deployed desktop WhatAapp clone as a
                   React-Application.
                 </span>
               </div>
@@ -196,8 +197,8 @@ function Work() {
                 </span>
                 <span class="mt-4 dark:text-coolGray-300">
                   Showcasing a Smartphone and learning how to render things
-                  based on User-Input. Need to manually upload to google drive
-                  or showcase it, since the size is about ~10 GB.
+                  based on User-Input. Need to upload it on google drive to
+                  showcase it, since the size is about ~10 GB.
                 </span>
               </div>
             </div>
@@ -248,8 +249,8 @@ function Work() {
                 <span class="mt-4 dark:text-coolGray-300">
                   Since this portfolio was built to showcase myself for you out
                   there, heres the page itself. This page took no longer then
-                  4-6 hours and was done quick & dirty, since i had no time next
-                  to work.
+                  4-6 hours and was created quick & dirty, since i had no time
+                  next to work.
                 </span>
               </div>
             </div>

@@ -36,7 +36,7 @@ function Questions() {
             </div>
             <div class="md:flex-grow">
               <h2 class="text-2xl font-bold text-gray-900 title-font mb-2">
-                Where am i studying?
+                Where am I studying?
               </h2>
               <p class="leading-relaxed text-xl">
                 I am studying at the University Of Applied Science Ansbach.
@@ -54,7 +54,7 @@ function Questions() {
                 When will the practical term start?
               </h2>
               <p class="leading-relaxed text-xl">
-                The practical term will start on the 18th of October, but i can
+                The practical term will start on the 18th of October, but I can
                 either start right after finishing my exams on the end of
                 July/start of August or later then the 18th of October.
               </p>
@@ -72,7 +72,7 @@ function Questions() {
               </h2>
               <p class="leading-relaxed text-xl">
                 The only necessary thing is that the project/job is related to
-                my main specialization. So for me thats Web&Mobile Development!
+                my main specialization. So to me that's Web&Mobile Development!
                 <br></br>
                 The practical project can be used as a basis for the
                 bachelor-thesis.
@@ -119,7 +119,7 @@ function Questions() {
                 Gamedesign. You can check out my projects below.
               </p>
               <a
-                href="/work"
+                href="https://erikglaser.de/work"
                 class="mt-6 inline-flex items-center px-6 py-3 text-white font-semibold bg-blue-700 rounded-md shadow-sm"
               >
                 Projects

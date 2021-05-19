@@ -6,7 +6,8 @@ import ParticlesBg from "particles-bg";
 import CookieConsent from "react-cookie-consent";
 function Home() {
   return (
-    <div className="home">
+    <div className="home" class="overflow-hidden">
+      <ParticlesBg type="circle" bg={true} />
       <CookieConsent
         location="top"
         buttonText="Ich stimme zu"
@@ -22,7 +23,6 @@ function Home() {
         Mehr erfährst du in unserer{" "}
         <a href="./datenschutz">Datenschutzerklärung</a>.
       </CookieConsent>
-      <ParticlesBg type="circle" bg={true} />
       <div className="bg-white max-w-md mx-auto rounded-xl shadow-2xl overflow-hidden md:max-w-screen-lg p-2">
         <img
           src={Erik}
@@ -74,7 +74,7 @@ function Home() {
                 </p>
               </div>
               <a
-                href="/work"
+                href="https://erikglaser.de/work"
                 class="mt-6 inline-flex items-center px-6 py-3 text-white font-semibold bg-blue-700 rounded-md shadow-sm"
               >
                 Coming soon...
@@ -86,7 +86,7 @@ function Home() {
             <div class="flex flex-col flex-1 px-10 py-12 bg-white rounded-lg shadow-lg">
               <div class="flex-1">
                 <h2 class="text-gray-900 text-2xl font-bold leading-snug">
-                  Whatsapp Clone
+                  WhatsApp Clone
                 </h2>
                 <p class="mt-2 text-lg">
                   Functional Whatsapp Desktop Clone. Achieved with React.JS,
