@@ -266,8 +266,9 @@ function About() {
 
             <h3 class="my-3 text-3xl font-semibold">Javascript & Java</h3>
             <div class="space-y-1 leading-tight text-2xl">
-              <p>• React.js</p>
+              <p>• React.js/React-Testing</p>
               <p>• React Native</p>
+              <p>• Jest</p>
               <p>• Vue.js</p>
               <p>• Express.js</p>
               <p>• Node.js</p>

@@ -36,8 +36,8 @@ function Home() {
             />
           </p>
           <p></p>
-          <p className="info">
-            Welcome to my quickly build Portfolio for the district town hall in
+          <p className="info" class="text-3xl">
+            Welcome to my quickly built Portfolio for the district town hall in
             Ansbach.
           </p>
         </div>
@@ -62,7 +62,7 @@ function Home() {
                 href="#"
                 class="mt-6 inline-flex items-center px-6 py-3 text-white font-semibold bg-blue-700 rounded-md shadow-sm"
               >
-                View project
+                Coming soon...
               </a>
             </div>
           </div>
@@ -79,7 +79,7 @@ function Home() {
                 </p>
               </div>
               <a
-                href="#"
+                href="https://github.com/Erikqtx/Whatsapp-Clone"
                 class="mt-6 inline-flex items-center px-6 py-3 text-white font-semibold bg-blue-700 rounded-md shadow-sm"
               >
                 View project
